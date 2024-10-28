@@ -13,8 +13,8 @@ To implement key exchange between users using Diffie Hellman algorithm.
 
 4.	Similarly, secret keys for both users are calculated.
 
-## NAME: SANJAY G
-## REG_NO: 212222230131
+## NAME: R Vignesh
+## REG_NO: 212222230172
 
 ## PROGRAM:
 ```
@@ -61,7 +61,9 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/602647ad-2893-4ca9-9055-a894b8856d43)
+![378267955-602647ad-2893-4ca9-9055-a894b8856d43](https://github.com/user-attachments/assets/aa883e85-4519-4402-ad21-d485fd5cd77a)
+
+
 
 
 ## RESULT:
